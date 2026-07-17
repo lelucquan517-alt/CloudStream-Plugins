@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CloudStream Plugins",
+    "description": "Kho plugin cá nhân",
+    "authors": ["lelucquan517"],
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/lelucquan517-alt/CloudStream-Plugins/builds/ExampleProvider.cs3",
+    "language": "vi",
+    "iconUrl": "https://raw.githubusercontent.com/lelucquan517-alt/CloudStream-Plugins/builds/icon.png",
+    "classPath": "com.example.ExampleProvider",
+    "tvTypes": ["Movie"],
+    "requirements": []
+  }
+]
